@@ -1,0 +1,12 @@
+{
+  "preload": "preload.js",
+  "logo": "logo.png",
+  "platform": ["darwin"],
+  "features": [
+    {
+      "code": "fd",
+      "explain": "find files on mac, based on fd.",
+      "cmds": ["ff", "fd", "find", "查找", "查找文件"]
+    }
+  ]
+}

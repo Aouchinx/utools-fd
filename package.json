@@ -1,0 +1,6 @@
+{
+  "name": "utools-fd",
+  "version": "1.0.3",
+  "main": "preload.js",
+  "license": "MIT"
+}
